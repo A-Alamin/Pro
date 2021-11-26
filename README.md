@@ -6,7 +6,7 @@
 	  <meta name="keywords" content="Ameen_About">
   	<meta name="author" content="Alamin Ahmed">
     <title>Cipherbyte | homepage</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="icon" href="img/favicon.png">
   </head>
   <body>
